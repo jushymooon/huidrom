@@ -1,0 +1,178 @@
+1. BU Goals - Project specific 
+
+Meet the goal to complete Roadmap items as below,
+Aligne 5 Power Ops - Scheduler Grid Phase1
+Aligne 5 Power Ops - Scheduler Grid Phase2
+Matching Grid Phase 1
+Come up with ideas & implement them project in order to reduce/simplify development process
+
+Contirbuted in scheduler grid development and scheduker grid on track
+took part in multiple design on the implementation of sceduler grid
+took complete ownership of transmission chain implementation. Very complex and chalenging design an functionalities.
+chalenging co-ordination with houston teammate including knowledge sharing and providing guidance.
+took complete ownership of filterEditor implementation. Very complex and chalenging design an functionalities.
+Enhance the tearm utility to now enable user to auto create the term excel sheet + made the replacement if available term more 
+error free.
+
+
+
+2. BU Goals - Quality And Process
+
+Less than 10% Failure Rate in issues/defects.
+Less than 10% Failure Rate in enhancements.
+RCA for all the defects
+Identify correct root cause of regression
+Discuss and come up with documented Test cases/impact areas
+Participate actively in code review\Identify failure scenarios during code reviews
+Proactive in improving quality by reporting and resolving quality issues
+Reduce Defect raised by QA - 10% YoY
+Meet Defect leakage targets
+
+NO failed tickets in issues and defect
+Still maintaining minimum failure in enhancement.
+Proper RCA and indept analysis of all defects are done and holistic approach to a solution is perform.
+Always the root cause are identified on any Regression issues
+Impact area and test cases along with minute level estimations are provided for all task handled
+
+
+
+3. GT India Goals
+
+Security & Risk
+100% RegU completion
+Zero Security Incidents
+Ensure 100% OS patching and OS EOL as per FIS policy
+Operational Excellence
+100% timesheet submitted on time
+People
+Minimum 40 hours documented training in a year
+2 documented career conversations in a year
+Process Compliance
+Adhere support process to FIS guidelines
+100% adherence to established project / team processes, including:
+- application of coding standards
+- updating SZ ticket with appropriate supporting docs.
+- usage of appropriate code / doc templates
+- creation & timely closure of all DEV sub-tasks in an iteration
+- timely submission of status reports as required
+- defect/issue tracking system practices
+- application environment build & deploy practices
+- Timely Workday Leave application
+
+No pending RegU. All regU certtification are done on the day when the request comes itself.
+
+None Security Incidents
+All  OS patching and OS EOL are available in my used devices.
+All timesheet are submitted on time
+
+Attended training on finTech pro for 3 days = 24 hours.
+Have plan to attend more training on aws, angular 2 and css3.
+With bhgayesh 1:1 meeting initiation, i had 2 such meeting
+Been observing 100% adherence to established project / team processes, including:
+Followed  application coding standards and whenever application suggestions are provided.
+Been updating SZ ticket with appropriate supporting docs.
+Been creating and closing all dev subtask and main tickets in right time.
+All report/informations asked from me is always provided in time at the eairliest.
+Leave request are alwasy put in advance keeping in mind the lattest process 
+
+
+
+4. Individual goals - Delivery
+
+
+- Less than 10% Sprint Variance/10% spillovers
+- Rework efforts to be within 10%.
+- Documentation – as applicable for project.
+- Unplanned leaves should not affect delivery
+- Meet Agile development targets
+- Implement & Maintain CI for PowerOps & manage 
+- Contribute in automations for energy
+- Help teammates (Suyog, Omari)  to work independently
+
+  Couple of sprint spillover happened. The root cause has been analys and future action item is identified.
+  Every developement effort is well documented in jira as well as confluence page.
+  No unplanned leave as of now.
+  Invlove with the team as Scrumm master to , not only meet my individual scrum goal, but also to lead the leave to scrum.
+  Very well define , value adding, motivational and refined scrum process is currently under implementation with I taking as the Scrum master role for power team.
+  This all approach are well documented in confluence page.
+  Continuous Integration is one of the mojor  focus i cam currently putting on.
+  A very clear plan and strategy is being laid down and agile approach to adapt according to situation is done.
+  Not onlly automation of test cases but also automation of development process, automation of buildprocess, automation of deployment process, and integrations of automation frameworks with jenkins etc are under constructive where i put in my major effort.
+  Helping and gromming Omari and suyog enabling to not onmly solve the current issue but also to educate them enabling a sustainable model.
+
+
+
+Individual goals - Self Development 
+
+Create your backup & be a backup of someone
+Improve knowledge on PowerOps General & PowerOps EU
+CSS3 expert and Angular2
+
+Been grooming suyog on power perspective as a backup
+Been grroming narendra on CI activity as a backup
+Been going though multiple knowledge session with houston initiated business training program
++ Been proactively arranging power business and fundamental knowledge sjaring with tuhin
+This knowledge is recorded and will be publish in confluence for future.
+Participated in hackathon where trhe product was design i nangular4 and css3. Though its just a beginning i have plan to excel in these technologies, The machine grid is a good moduel to start putting this technologies in front.
+
+
+
+
+659 945 351
+
+Over-all-comment
+
+Been continuously performing and exhibiting my sincerity,commitment and competency in various front.
+
+I have been continuously working on
+1. Growth of team. In terms of
+	a. Technical knowledge
+		i.   Always goes for logical and fundamental understanding of every technical work done by team.
+		ii.  Irrespective of if its on defect or enhancement.
+		iii. Always inducted lattest technical trends in the project with comeplete knowledge sharing. This keeps the product future ready.
+		iv. technical knowledge transfer not only restricted to the immediate team members but also all relevent and intersted members of energy. 
+	b. Functional knowledge
+		a. Learning every aspect of the product and its business relations with the market from, not only formal training provided, but also from multiple knowledge point. Talking and recieving these knowledge from whereever it is available.
+		b. Such not formal knowledge is captured and will be publish in confluence.
+		c. The attempt of this knowledge knowledge base is to create a proper chain of learning meterials starting from fundamentals to the product knowlege.
+		d. This will enable onboarding of a fresh team member (even from completely different doamain) quickly into the team.
+	c. Motivation
+		a. Explaining the value in, doing what we are doing till believing in it, is the only way to create passion in what we do.
+		b. Effort made ,even in the cost of off-office hours, to motivate team and belive in what we are doing.  
+	d  Self organizing skills
+		a. An only sustainable team is the team which is motivated and self organised.
+		b. Enabling and empowering members to take bold decision and learn for its outcome is one of the very important path to create a self organising team.
+		c. Effort is also made to enable members to focus on preparing-planning and executing the commitment.
+		d. This is acheived through self organised and motivated team.
+
+2. Implementation of agile scrum approach
+	a. Been finding innovative ideas, approach to sustainably make team adopt scrum process.
+	b. Believing in understanding the value of what we are doing even before we start doing it.
+		i. In line to this, huge effort has been put in making each member of the team believe to these scrum values and there importance.
+	c. All these efforts,ideas and innovations are documented in confluence.
+
+3. Continuous Integration and DevOperations plans
+	a. Have been putting lots of effort to bring CI up for Energy.
+	b. With the vision of 'Working Software delivery anytime', Been continuously trying to inspire and motivate members from other team to contribute which is sometime very challenging since they are not obliged to.
+	d. The power of technologies and new technocal innovations which are available in the market is something which attracts teammate and exposing them to these technologies is what motivates CI team.
+	c. The value of CI plan being in place is backuped with numerous RnDs on various Ci related technologies.
+
+4. QA automation support
+	a. Proactively, spoke to QAs of other products in FIS during the phase when we are deciding on what next (in terms of automation) for A5.
+	b. Arranged sessions with other product QAs with Energy QAs for knowledge sharing.
+	c. Voluntarily got involved in configuring continuous test script execution on QTP,SAFAL etc from jenkins.
+	d . etc
+
+5. Involved in various activities which directly/indirectly map to lifting the team to next level and create positive working environment.
+
+6. Holistic and sustainable approach to every issue and improvement is the way to build a self organised and a motivated team.
+   a. Motivating and inspiring team members to understand the value of whatever we are doing. why is this technical solution best fits in this context etc.
+   b. Giving every member of the team time and autonomy to perform his/her task and take bold technical decision keeping the valueit might add to the product is to thrive for. This will eventually lead to a sustainable model of software delivery with value.
+
+Been performing all the above activities(+), daily, with NO interference to my day-to-day in-sprint work as an individual contributor, and WITHOUT any recognition or acknowledgement.
+
+With the current limited role I have (as an individual contributor in the team), I am not able to use my competencies/energy and enthusiasm to the advantage of my team/organisation and simultaneously grow along with it.
+
+Entrusting with next level of responsibilty officially, will enable me to perform,execute and fully submit myself to these values. Technical/Operational excellence can be acheived only when an individual is empowered with comeplete accountability and responsibilty with 100% allocation to the Role Officially.
+
+Commting my hard work/sincerity/enthusiasm on the competencies i have (and growing) is what i have to offer if provided an opportunity.

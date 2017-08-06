@@ -1,0 +1,63 @@
+<html ng-app="huidromApp" ng-controller="mainController as ctrl" ng-init="ctrl.init()">
+
+<head>
+    <title>Jashyawanta Huidrom</title>
+    <script src="./extlib/angular.min.js"></script>
+    <script src="./extlib/angular-route.js"></script>
+    <script src="./extlib/jquery.min.js"></script>
+    <script src="http://cdn.kendostatic.com/2012.2.710/js/kendo.all.min.js"></script>
+    <script src="./extlib/handsontable.full.js"></script>
+    <link rel="stylesheet" media="screen" href="./extstyle/handsontable.full.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn.kendostatic.com/2012.2.710/styles/kendo.default.min.css">
+    <link rel="stylesheet" type="text/css" href="http://cdn.kendostatic.com/2012.2.710/styles/kendo.common.min.css">
+    <link href="./extstyle/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="./extstyle/font-awesome.css" rel="stylesheet">
+
+</head>
+<div id='mainId' style="height: 95vh;">
+    <div id='headerSectionId' style="background: lightslategrey;">
+        <hudi-header></hudi-header>
+    </div>
+    <div id="contentSectionId">
+        <div id="menuSectionId" style="background-color: #e3e3e3;">
+            <hudi-menu></hudi-menu>
+        </div>
+        <div id='bodySectionId'>
+            <div ng-view></div>
+        </div>
+    </div>
+</div>
+<script src="./huidromApp.js"></script>
+<script src="./mainController.js"></script>
+<script src="./directives.js"></script>
+
+</html>
+<script>
+$('#mainId').kendoSplitter({
+    orientation: "vertical",
+    panes: [{
+        resizable: true,
+        collapsible: true,
+        scrollable: true,
+        size: "150px"
+    }, {
+        resizable: true,
+        collapsible: true,
+        scrollable: true
+    }]
+});
+
+// $('#contentSectionId').kendoSplitter({
+//     orientation: "vertical",
+//     panes: [{
+//         resizable: true,
+//         collapsible: true,
+//         scrollable: true,
+//         size: "38px"
+//     }, {
+//         resizable: true,
+//         collapsible: true,
+//         scrollable: true
+//     }]
+// });
+</script>
